@@ -17,13 +17,14 @@ O movimento *Citizen Developer* capacita profissionais que conhecem a fundo as r
 
 ## 📚 Curadoria de Fontes
 
-Para alimentar o NotebookLM e garantir um embasamento técnico e de mercado, utilizei as seguintes fontes abertas:
+Para alimentar o NotebookLM e garantir um embasamento técnico (incluindo materiais audiovisuais), utilizei as seguintes fontes abertas:
 
-1. **[Gartner: What is a Citizen Developer?](https://www.gartner.com/en/information-technology/glossary/citizen-developer)** - *Artigo base (Texto em PDF)* para entender a definição corporativa e as fronteiras da TI bimodal.
-2. **[Documentação Oficial do n8n - Core Concepts](https://docs.n8n.io/getting-started/core-concepts/)** - *Documentação técnica* sobre nós, fluxos de trabalho e integrações via API, essencial para a camada de automação.
-3. **[Python for Finance and Accounting (Real Python)](https://realpython.com/)** - *Artigos selecionados* sobre manipulação de planilhas e dados financeiros usando a biblioteca Pandas.
-4. **[PMI - Citizen Development: The Democratization of Software](https://www.pmi.org/citizen-developer)** - *Visão de gestão de projetos*, abordando governança e segurança quando não-programadores criam softwares.
-
+1. **[Artigo Alura: Citizen developer - O que é, benefícios e como começar](https://www.alura.com.br/artigos/citizen-developer)** - *Texto base* para entender a definição corporativa, a diferença em relação a um Analista de Sistemas e os riscos do Shadow IT.
+2. **[Vídeo YouTube: N8N para iniciantes - Criando sua Primeira AUTOMAÇÃO](https://www.youtube.com/watch?v=C0SDjqmctfU)** - *Fonte prática* para estruturar os tutoriais de automação de fluxo de trabalho no miniguia.
+3. **[Vídeo YouTube: Citizen Developers - Who Are They And What Do They Do?](https://www.youtube.com/watch?v=2mADc-rlBX8)** - *Fonte conceitual* para consolidar a criação do glossário e entender o impacto nos negócios.
+4. **[Zeev: Como se tornar um citizen developer?](https://zeev.it/blog/como-se-tornar-um-citizen-developer/)** - *Artigo de Negócios* detalhando a transição de um Analista de Negócios para um Desenvolvedor Cidadão, listando hard skills e soft skills necessárias.
+5. **[Pipefy: O que é Citizen Automation e como funciona?](https://www.pipefy.com/pt-br/blog/o-que-e-citizen-automation/)** - *Guia prático* de automação cidadã com foco em fluxos de trabalho administrativos e de back-office.
+6. **[Vídeo: Você já ouviu falar do Citizen Developer?](https://www.youtube.com/shorts/94S1fCjsm14)** - *Material audiovisual* discutindo a vantagem de capacitar profissionais contábeis em tecnologia em vez de ensinar regras de negócios complexas para programadores.
 ---
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
